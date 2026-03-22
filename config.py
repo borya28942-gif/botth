@@ -15,10 +15,10 @@ PRIVATE_CHANNELS = {
     "-1002462551033": "https://t.me/vipchannelctypt",
     "-1003371121986": "https://t.me/crypt7383",
     "-1003590391093": "https://t.me/crypt7373",
-    "-1001323807807" : "https://t.me/crypta718"
-    "-1002462551033" : "https://t.me/vipchannelctypt"
-    "-1002909188170" : "https://t.me/crypt678445"
-    "-1003004941528" : "https://t.me/crypt2772"
+    "-1001323807807": "https://t.me/crypta718"
+    "-1002462551033": "https://t.me/vipchannelctypt"
+    "-1002909188170": "https://t.me/crypt678445"
+    "-1003004941528": "https://t.me/crypt2772"
 
 }
 
