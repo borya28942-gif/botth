@@ -18,7 +18,7 @@ PRIVATE_CHANNELS = {
     "-1003590391093": "https://t.me/crypt7373",
     "-1001323807807": "https://t.me/crypta718",
     "-1002909188170": "https://t.me/crypt678445",
-    "-1003004941528": "https://t.me/crypt2772"
+    "-1003004941528": "https://t.me/crypt2772",
     "-1001383662329": "https://t.me/+ir5K6pYYmjExOTQy"
 }
 
