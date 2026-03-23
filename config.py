@@ -7,7 +7,8 @@ BOT_TOKEN = "8712345064:AAEiFqfEM6Do4a7JT5WdUjtVTfDsSKi_7HU"
 REQUIRED_CHANNELS = [
     "-1002462551033",
     "-1002909188170",
-    "-1003004941528"
+    "-1003004941528",
+    "-1001383662329"
 ]
 
 PRIVATE_CHANNELS = {
@@ -18,6 +19,7 @@ PRIVATE_CHANNELS = {
     "-1001323807807": "https://t.me/crypta718",
     "-1002909188170": "https://t.me/crypt678445",
     "-1003004941528": "https://t.me/crypt2772"
+    "-1001383662329": "https://t.me/+ir5K6pYYmjExOTQy"
 }
 
 # Сколько грн даём за одного активированного реферала
