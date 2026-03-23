@@ -174,7 +174,7 @@ def fmt_money(amount: float) -> str:
 def get_bot_days_running() -> int:
     try:
         start = datetime.strptime(BOT_START_DATE, "%d.%m.%Y")
-        now = datetime.now(timezone.utc)
+        now = datetime.now()  # ← УБРАЛ timezone
         return max((now - start).days, 0)
     except Exception:
         return 0
