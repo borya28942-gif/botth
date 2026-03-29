@@ -15,7 +15,7 @@ REQUIRED_CHANNELS = [
 
 PRIVATE_CHANNELS = {
     "-1001860574110": "https://t.me/+k-NOcOYCQek1NWQy",
-    "-1002462551033": "https://t.me/vipchannelctypt",
+    "-1002462551033": "https://t.me/CryptoPullssee",
     "-1003371121986": "https://t.me/crypt7383",
     "-1003590391093": "https://t.me/crypt7373",
     "-1001323807807": "https://t.me/crypta718",
